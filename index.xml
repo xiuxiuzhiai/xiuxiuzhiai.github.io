@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://xiuxiuzhiai.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2020 03:49:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiuxiuzhiai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20200205</title>
+      <link>https://xiuxiuzhiai.github.io/post/20200205/</link>
+      <pubDate>Wed, 05 Feb 2020 03:49:50 +0800</pubDate>
+      
+      <guid>https://xiuxiuzhiai.github.io/post/20200205/</guid>
+      <description>让人释怀和放下，从来都不是因为信仰和希望，而是看尽了世间的无奈和绝望。 但透过无边黑暗的那缕暖风，却又令人如此向往&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
