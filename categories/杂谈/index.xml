@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 种一株向阳花</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on 种一株向阳花</description>
+    <title>杂谈 on 种一株向阳花</title>
+    <link>/categories/%E6%9D%82%E8%B0%88/</link>
+    <description>Recent content in 杂谈 on 种一株向阳花</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>©2020 Notepadium.</copyright>
     <lastBuildDate>Thu, 06 Feb 2020 04:18:50 +0800</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/post/2020-02-06/</guid>
       <description>预料到了很多超市粮油速食被抢购一空的局面，但出乎意料，属实没有提前意识到网购也能出现抢购一空，算是多多少少还是受了那些宣传的影响了，没足够意</description>
-    </item>
-    
-    <item>
-      <title>放下就是堕落</title>
-      <link>/post/20200205/</link>
-      <pubDate>Wed, 05 Feb 2020 03:49:50 +0800</pubDate>
-      
-      <guid>/post/20200205/</guid>
-      <description>让人释怀和放下，从来都不是因为信仰和希望，而是看尽了世间的无奈和绝望。 但透过无边黑暗的那缕暖风，却又令人如此向往&amp;hellip;&amp;helli</description>
     </item>
     
   </channel>
